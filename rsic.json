@@ -3210,47 +3210,6 @@
         "ACRES": 0.779097,
         "GlobalID": "ffd31a76-ced0-4054-8fdf-019d01f482e4"
       }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          39.529868,
-          -119.791674
-        ]
-      },
-      "properties": {
-        "styleUrl": "#falseColor1",
-        "fill-opacity": 0,
-        "fill": "#ffffff",
-        "stroke-opacity": 0.9019607843137255,
-        "stroke": "#0000fe",
-        "stroke-width": 4,
-        "AREA": 0,
-        "PERIMETER": 0,
-        "SNUM": 0,
-        "STREET": "Kuenzli St",
-        "Name": "Vacant",
-        "RSIC_Parce": "reno",
-        "ACRES": 0.779097,
-        "GlobalID": "ffd31a76-ced0-4054-8fdf-019d01f482e4"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -119.791674,
-          39.529868
-        ]
-      },
-      "properties": {
-        "marker-color": "#ff0000",
-        "marker-size": "large",
-        "marker-symbol": ""
-      }
     }
   ]
 }
